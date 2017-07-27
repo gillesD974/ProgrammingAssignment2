@@ -1,4 +1,4 @@
-# 
+## File contains 2 functions : one to create a special matrix and one to inverse special matrix using cache when possible
 
 ## makeCacheMatrix: This function creates a special "matrix" object that can cache its inverse.
 ## basic functions allowing to set/get a value to the matrix and to setinv/getinv the inverse of the matrix 
